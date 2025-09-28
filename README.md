@@ -76,4 +76,7 @@ Apache executes the PHP files (back-end).
 The web browser serves as the front-end interface.
 
 ---
+## 👤 Author: 
+
+wissal manari 
 
